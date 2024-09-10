@@ -1,0 +1,52 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Quando surge o alviverde imponente",
+      "autoria": "Vagner",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "Sabe bem o que vem pela frente, a grandeza do prélio não tarda, e o Palmeiras no ardor da partida transformando a lealdade em padrão sabe sempre levar de vencida e mostrar que de fato é campeão ",
+      "autoria": "Vagner Rocha",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": " Hoje é o dia de ser feliz ... Foco no projeto Memoteca ",
+      "autoria": " Angular / Alura",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": " Objetivo do dia, ser feliz. Objetivo da semana, conseguir. Objetivo do mês, realizar... Foco, força e fé.",
+      "autoria": " Dexter Rengav Rocha",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": " O que é, o que é? Clara e salgada  Cabe em um olho e pesa uma tonelada  Tem sabor de mar  Pode ser discreta  Inquilina da dor  Moradia predileta  Na calada ela vem  Refém da vingança  Irmã do desespero  Rival da esperança  Pode ser causada por vermes e mudanas  E o espirnho da flor",
+      "autoria": " Racionais",
+      "modelo": "modelo1",
+      "id": 6
+    },
+    {
+      "conteudo": " Quem vai resolver nossos problemas não está no Bradesco",
+      "autoria": "Ede Viani",
+      "modelo": "modelo2",
+      "id": 7
+    },
+    {
+      "conteudo": " O que está ruim, pode piorar?",
+      "autoria": "Rengav Ahcor",
+      "modelo": "modelo1",
+      "id": 8
+    },
+    {
+      "conteudo": "A vida não é bela? Então porque ...",
+      "autoria": " Dexter Rocha",
+      "modelo": "modelo2",
+      "id": 9
+    }
+  ]
+}
